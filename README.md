@@ -161,4 +161,4 @@ The project is based on creating simple UNIX command interpreter that generates 
 
 ### Credits
 
-All code written by [Minenhle Nkosi](https://github.com/MinenhleNkosi) and [Alex Soyoye](https://github.com/AlexSoyoye).
+All code written by [Minenhle Nkosi](https://github.com/MinenhleNkosi) and [Alex Soyoye](https://github.com/alexsoyoye1).
